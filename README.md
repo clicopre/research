@@ -1,6 +1,6 @@
 # CLICOPRE
 
-  CLICOPRE is a research project by Duccio Gamannossi degl'Innocenti at the University of Padua and Harvard University.
+  CLICOPRE (CLImate COmmunication and Policy Responses to Extreme weather events) is a research project by Duccio Gamannossi degl'Innocenti between the Department of Economics and Management of the **University of Padua** and the Department of Government at **Harvard University**.
 
   The project studies how extreme weather events shape climate-related communication by politicians and news outlets on social media, and whether these shocks also influence political action, legislative
  activity, and voting behaviour in the European Union and the United States.
